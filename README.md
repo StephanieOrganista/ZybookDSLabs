@@ -1,5 +1,6 @@
 # ZybookDSLabs
-Zybooks Labs covered for COSC 2436 Data Structures and Algorithms Class.
+Zybooks Labs covered for COSC 2436 Data Structures and Algorithms Class in C++
 
-Lab 18.18.1 - Output Numbers in Reverse
-Lab 18.19.1 - Middle Item
+Chapter 18: Arrays and Vectors
+Chapter 19: User-Defined Functions
+
